@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:300,400,500,600,700');
+
+.fullImage {
+  max-width: 70%;
+  max-height: 70%;
+}
+
+body {
+  background-color: black;
+}
+
+.exitButton {
+  color:white;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  padding-left: 85%;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+.exitButton:hover {
+  color:salmon;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  padding-left: 85%;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color:white;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+  border-left-style: solid;
+  border-left-color: white;
+  border-left-width: thin;
+}
